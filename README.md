@@ -4,10 +4,6 @@
 
 🔗<a href="https://htn-fe-challenge-23.netlify.app/">Project</a>🔗
 
-# Introduction 🌟
-
-I would like to first appreciate this wonderful opportunity to participate in Hack the North’s Front-End Challenge 2023. Throughout the development process, I personally had so much fun applying my skills to create a functional hackathon website. Even though my skills might have been lacking in some areas, I am eager to grow my web app development skills as an aspiring front-end developer.
-
 # Goal 🎯
 
 > Build a creative and interactive tool that displays events for both hackers and general public for *Hackathon Global Inc.™,* where attendees obtain access to the full list of events through log-in.
@@ -15,13 +11,10 @@ I would like to first appreciate this wonderful opportunity to participate in Ha
 
 # Tools & Resources 🛠️
 
-### Frontend Library: `React`
+**Frontend Library**: `React`
 
-React is a flexible framework for building modern web applications that are highly responsive, scalable, and efficient. I used React because of its various component-based architecture, which allowed me to easily build complex user interfaces. By developing reusable components such as `Logo.js` and `LoginForm.js` , I was able to efficiently organize my code, leading to faster and more efficient development. 
 
-### API Client Libraries: `GraphQL` ,`Apollo Client`
-
-In order to expand my skill set, I chose to work with a new framework and tools that were unfamiliar to me. Although I have had limited prior experience with GraphQL, I took this opportunity to gain a deeper understanding of this technology. Throughout the development process, I found it incredibly rewarding to learn how to locate the endpoint and retrieve data to integrate with my website. Leveraging the power of queries, I was able to successfully access both public and private data, ultimately enhancing the functionality and user experience of my website.
+**API Client Library**: `GraphQL` ,`Apollo Client`
 
 **Image Resource**: 
 - <a href="https://www.freepik.com/free-vector/digital-global-connection-network-technology-background_6864937.htm#query=digital">Freepik </a>
@@ -85,7 +78,3 @@ Due to the limited time given, there are some additional features I wish to work
 - **Card Format:** To improve the user experience and engagement with the events, I would consider implementing pop-up cards or card component from the **`react-bootstrap`** dependency for displaying event information. I would also add a "view more" button to each event card, which would show more detailed description and links to relevant events.
 - **Enhanced Features:**  I would also consider implementing user account functionality such as interactive profile customization and preference options to further enhance the user experience. Creating a real-time chat functionality or adding a live leaderboard to track the progress of teams would also be a great way for users to connect with others.
 - **Performance Metrics**: I would also monitor performance metrics such as page load times, website view, server response times, and user engagement metrics to see where improvements can be made. By using tools such as Google Analytics, Datadog, or Google Analytics, I can ensure that the application is meeting the needs of users.
-
-# Conclusion ⚙️
-
-In conclusion, working on this project has been an incredible learning experience for me. It provided me with the opportunity to explore new technologies and experiment with various design strategies. Moving forward, I am excited to tackle new challenges and to continue expanding my knowledge.
