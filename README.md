@@ -4,6 +4,13 @@
 
 🔗<a href="https://htn-fe-challenge-23.netlify.app/">Project</a>🔗
 
+# Getting Started🪄
+
+1. Open the <a href="https://htn-fe-challenge-23.netlify.app/"> project </a>
+2. Enter the admin key to view private events
+- email: hackathonglobal@email.com
+- pw: codingisfun
+
 # Goal 🎯
 
 > Build a creative and interactive tool that displays events for both hackers and general public for *Hackathon Global Inc.™,* where attendees obtain access to the full list of events through log-in.
