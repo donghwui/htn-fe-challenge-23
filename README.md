@@ -72,6 +72,12 @@ My proudest part of my progress would be the login authentication feature becaus
 - Cool hues of colors like blue and purple were used to add a technological and futuristic aspect to the project
 - **`linear-gradient`** and **`hover`** effects were used to enhance interactivity and engagement
 
+# Preview 🔍
+<img width="1917" alt="image" src="https://user-images.githubusercontent.com/63986023/220753980-ac595e68-5da0-4f1a-addf-a7e2abb10d1e.png">
+Public Dashboard
+<img width="1915" alt="image" src="https://user-images.githubusercontent.com/63986023/220753830-1eeb144e-c859-435c-b894-d3a1771c6535.png">
+Private Dashboard
+
 # Improvements 🌱
 
 Due to the limited time given, there are some additional features I wish to work on: 
