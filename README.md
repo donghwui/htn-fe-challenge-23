@@ -41,14 +41,6 @@
 - **Search Bar:**
     - Implemented a powerful search bar system that enables users to quickly locate events they are interested in
     - Intelligent search algorithm that returns any event that matches the user's input
-# Challenges 🏔️
-
-Due to my limited skills and knowledge, I encountered numerous challenges when working on my project. In particular, I had to learn how to utilize **GraphQL methods** and implement **various functions in React** that were completely new to me.
-
-Despite these challenges, I approached each requirement with a positive attitude and passion to learn, which helped me to stay focused and motivated throughout the project. I used a variety of resources and tutorials to help me better understand the new concepts and technologies. I read through documentation and watched video tutorials with the goal of deepening my understanding in the realm of frontend development.
-
-My proudest part of my progress would be the login authentication feature because it required me to integrate several components in order to ensure seamless functionality. From creating the UI of the login form to hiding certain events based on users’ login status,  I was able to successfully build out the login process and ensure secured access of their accounts.
-
 # Considerations💭
 
 ## Comments
