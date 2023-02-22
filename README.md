@@ -4,7 +4,7 @@
 
 🔗<a href="https://htn-fe-challenge-23.netlify.app/">Project</a>🔗
 
-# Getting Started🪄
+# Getting Started 🪄
 
 1. Open the <a href="https://htn-fe-challenge-23.netlify.app/"> project </a>
 2. Enter the admin key to view private events
@@ -27,7 +27,7 @@
 - <a href="https://www.freepik.com/free-vector/digital-global-connection-network-technology-background_6864937.htm#query=digital">Freepik </a>
 - <a href="https://www.pngplay.com/image/11115"> PNGPlay </a>
 
-# Features💡
+# Features 💡
 
 - **Login Authentication:**
     - Implemented a secure login authentication system that enables logged-in hackers to view hidden, private events on their personalized dashboard
@@ -41,7 +41,7 @@
 - **Search Bar:**
     - Implemented a powerful search bar system that enables users to quickly locate events they are interested in
     - Intelligent search algorithm that returns any event that matches the user's input
-# Considerations💭
+# Considerations 💭
 
 ## Comments
 
