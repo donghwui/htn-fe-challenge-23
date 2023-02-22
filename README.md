@@ -89,5 +89,3 @@ Due to the limited time given, there are some additional features I wish to work
 # Conclusion ⚙️
 
 In conclusion, working on this project has been an incredible learning experience for me. It provided me with the opportunity to explore new technologies and experiment with various design strategies. Moving forward, I am excited to tackle new challenges and to continue expanding my knowledge.
-
-Thank you so much!
