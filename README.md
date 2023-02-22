@@ -4,7 +4,7 @@
 
 🔗<a href="https://htn-fe-challenge-23.netlify.app/">Project</a>🔗
 
-# Getting Started 🪄
+# Demo 🪄
 
 1. Open the <a href="https://htn-fe-challenge-23.netlify.app/"> project </a>
 2. Enter the admin key to view private events
