@@ -1,7 +1,6 @@
 # Hack the North Front-End Challenge 🌐
 
 🔗<a href="https://quixotic-icecream-916.notion.site/Hack-the-North-Front-End-Challenge-5beed63511ee4134ac65b3cfa8780f58" >Link to the Detailed Write-Up </a> 🔗
-
 # Getting Started 🪄
 
 1. Open the website
@@ -66,6 +65,12 @@ My proudest part of my progress would be the login authentication feature becaus
 - Featured a theme of a digital globe to emphasize the innovative technology that connects people around the world
 - Cool hues of colors like blue and purple were used to add a technological and futuristic aspect to the project
 - **`linear-gradient`** and **`hover`** effects were used to enhance interactivity and engagement
+
+# Preview 🔍
+<img width="1916" alt="public" src="https://user-images.githubusercontent.com/63986023/220732495-19ca9596-2863-46e0-94f1-987283291566.png">
+Guest Dashboard
+<img width="1915" alt="private" src="https://user-images.githubusercontent.com/63986023/220732601-517de434-77ca-4dd1-b815-0225de92ea06.png">
+Loggedin Dashboard
 
 # Improvements 🌱
 
