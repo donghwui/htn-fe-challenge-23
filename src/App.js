@@ -109,6 +109,10 @@ const App = () => {
     );
   });
 
+  useEffect(() => {
+    document.title = "Hackathon Global";
+  }, []);
+
   return (
     <div className="App">
       <Logo />
